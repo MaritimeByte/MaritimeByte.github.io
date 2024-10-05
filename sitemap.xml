@@ -20,7 +20,52 @@
   </url>
   
   <url>
+    <loc>https://maritimebyte.github.io/music/index.html</loc>
+    
+    <lastmod>2024-10-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://maritimebyte.github.io/movies/index.html</loc>
+    
+    <lastmod>2024-10-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://maritimebyte.github.io/link/index.html</loc>
+    
+    <lastmod>2024-10-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://maritimebyte.github.io/categories/index.html</loc>
+    
+    <lastmod>2024-10-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://maritimebyte.github.io/about/index.html</loc>
+    
+    <lastmod>2024-10-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://maritimebyte.github.io/tags/index.html</loc>
     
     <lastmod>2024-10-05</lastmod>
     
@@ -83,33 +128,6 @@
   </url>
   
   <url>
-    <loc>https://maritimebyte.github.io/link/index.html</loc>
-    
-    <lastmod>2024-09-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://maritimebyte.github.io/categories/index.html</loc>
-    
-    <lastmod>2024-09-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://maritimebyte.github.io/tags/index.html</loc>
-    
-    <lastmod>2024-09-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://maritimebyte.github.io/article/index.html</loc>
     
     <lastmod>2024-09-30</lastmod>
@@ -159,6 +177,13 @@
   
   <url>
     <loc>https://maritimebyte.github.io/categories/%E5%89%8D%E7%AB%AF/hexo/</loc>
+    <lastmod>2024-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://maritimebyte.github.io/categories/%E5%89%8D%E7%AB%AF/markdown/</loc>
     <lastmod>2024-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
