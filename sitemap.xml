@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/posts/fc6d92ff/</loc>
+    <loc>https://maritimebyte.github.io/posts/5fc4ef39/</loc>
+    
+    <lastmod>2024-10-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://maritimebyte.github.io/posts/fc6d92ff/</loc>
     
     <lastmod>2024-10-04</lastmod>
     
@@ -11,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/about/index.html</loc>
+    <loc>https://maritimebyte.github.io/about/index.html</loc>
     
     <lastmod>2024-10-04</lastmod>
     
@@ -20,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/posts/33f59116/</loc>
+    <loc>https://maritimebyte.github.io/posts/33f59116/</loc>
     
     <lastmod>2024-10-04</lastmod>
     
@@ -29,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/posts/631c6c3a/</loc>
+    <loc>https://maritimebyte.github.io/posts/631c6c3a/</loc>
     
     <lastmod>2024-10-04</lastmod>
     
@@ -38,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/posts/787e6168/</loc>
+    <loc>https://maritimebyte.github.io/posts/787e6168/</loc>
     
     <lastmod>2024-10-04</lastmod>
     
@@ -47,7 +56,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/posts/4a17b156/</loc>
+    <loc>https://maritimebyte.github.io/posts/4a17b156/</loc>
     
     <lastmod>2024-10-03</lastmod>
     
@@ -56,7 +65,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/link/index.html</loc>
+    <loc>https://maritimebyte.github.io/link/index.html</loc>
     
     <lastmod>2024-09-30</lastmod>
     
@@ -65,7 +74,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>https://maritimebyte.github.io/categories/index.html</loc>
     
     <lastmod>2024-09-30</lastmod>
     
@@ -74,7 +83,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>https://maritimebyte.github.io/tags/index.html</loc>
     
     <lastmod>2024-09-30</lastmod>
     
@@ -83,7 +92,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/article/index.html</loc>
+    <loc>https://maritimebyte.github.io/article/index.html</loc>
     
     <lastmod>2024-09-30</lastmod>
     
@@ -93,23 +102,30 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
-    <lastmod>2024-10-04</lastmod>
+    <loc>https://maritimebyte.github.io/</loc>
+    <lastmod>2024-10-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://example.com/tags/butterfly/</loc>
-    <lastmod>2024-10-04</lastmod>
+    <loc>https://maritimebyte.github.io/tags/hexo/</loc>
+    <lastmod>2024-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/hexo/</loc>
-    <lastmod>2024-10-04</lastmod>
+    <loc>https://maritimebyte.github.io/tags/markdown/</loc>
+    <lastmod>2024-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://maritimebyte.github.io/tags/butterfly/</loc>
+    <lastmod>2024-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -117,15 +133,15 @@
 
   
   <url>
-    <loc>http://example.com/categories/%E5%89%8D%E7%AB%AF/</loc>
-    <lastmod>2024-10-04</lastmod>
+    <loc>https://maritimebyte.github.io/categories/%E5%89%8D%E7%AB%AF/</loc>
+    <lastmod>2024-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/%E5%89%8D%E7%AB%AF/hexo/</loc>
-    <lastmod>2024-10-04</lastmod>
+    <loc>https://maritimebyte.github.io/categories/%E5%89%8D%E7%AB%AF/hexo/</loc>
+    <lastmod>2024-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
