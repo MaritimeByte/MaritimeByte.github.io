@@ -2,6 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://maritimebyte.github.io/posts/cdaca030/</loc>
+    
+    <lastmod>2024-10-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://maritimebyte.github.io/about/index.html</loc>
+    
+    <lastmod>2024-10-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://maritimebyte.github.io/posts/233e464c/</loc>
+    
+    <lastmod>2024-10-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://maritimebyte.github.io/posts/df4516cb/</loc>
+    
+    <lastmod>2024-10-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://maritimebyte.github.io/posts/9c47cdff/</loc>
+    
+    <lastmod>2024-10-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://maritimebyte.github.io/music/index.html</loc>
     
     <lastmod>2024-10-05</lastmod>
@@ -66,15 +111,6 @@
   
   <url>
     <loc>https://maritimebyte.github.io/categories/index.html</loc>
-    
-    <lastmod>2024-10-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://maritimebyte.github.io/about/index.html</loc>
     
     <lastmod>2024-10-05</lastmod>
     
@@ -157,7 +193,7 @@
 
   <url>
     <loc>https://maritimebyte.github.io/</loc>
-    <lastmod>2024-10-05</lastmod>
+    <lastmod>2024-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -165,21 +201,35 @@
   
   <url>
     <loc>https://maritimebyte.github.io/tags/butterfly/</loc>
-    <lastmod>2024-10-05</lastmod>
+    <lastmod>2024-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://maritimebyte.github.io/tags/hexo/</loc>
-    <lastmod>2024-10-05</lastmod>
+    <lastmod>2024-10-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://maritimebyte.github.io/tags/html/</loc>
+    <lastmod>2024-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://maritimebyte.github.io/tags/markdown/</loc>
-    <lastmod>2024-10-05</lastmod>
+    <lastmod>2024-10-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://maritimebyte.github.io/tags/%E5%BF%97%E5%BC%82/</loc>
+    <lastmod>2024-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -188,21 +238,21 @@
   
   <url>
     <loc>https://maritimebyte.github.io/categories/%E5%89%8D%E7%AB%AF/</loc>
-    <lastmod>2024-10-05</lastmod>
+    <lastmod>2024-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://maritimebyte.github.io/categories/%E5%89%8D%E7%AB%AF/hexo/</loc>
-    <lastmod>2024-10-05</lastmod>
+    <lastmod>2024-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://maritimebyte.github.io/categories/%E5%89%8D%E7%AB%AF/markdown/</loc>
-    <lastmod>2024-10-05</lastmod>
+    <lastmod>2024-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
